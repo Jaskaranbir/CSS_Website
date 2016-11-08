@@ -1,0 +1,40 @@
+{
+    "speakers": [
+        {
+            "prefix":"Prof.",
+            "firstName": "Harsh",
+            "lastName": "Thakkar",
+            "specialization": "Web Development",            
+            "phoneNumber":"",
+            "extn":"5722",
+             "email":"harsh.thakkar@sheridancollege.ca",
+            "linkToPage":"https://www.sheridancollege.ca/academics/faculties/applied-science-and-technology/faculty-profiles/harsh-thakkar.aspx",
+            "linked":"",
+            "imgSource":"img/speakers/prof.Thakkar.png"
+        },
+        {
+            "prefix":"Prof.",
+            "firstName": "Karin",
+            "lastName": "Lindner",
+            "specialization": "Interview Preparation",
+            "phoneNumber":"",
+            "extn":"",
+             "email":"karin.lindner@sheridancollege.ca",
+            "linkToPage":"",
+            "linked":"https://www.linkedin.com/in/karinlindner",
+            "imgSource":"img/speakers/Lindner.jpg"
+        },
+        {
+            "prefix":"Prof.",
+            "firstName": "Amandeep",
+            "lastName": "Patti",
+            "specialization": "Software Development - A Wider Prospect",
+            "phoneNumber":"",
+            "extn":"4410",
+             "email":"amandeep.patti@sheridancollege.ca",
+            "linkToPage":"https://www.sheridancollege.ca/academics/faculties/applied-science-and-technology/faculty-profiles/amandeep-patti.aspxv",
+            "linked":"",
+            "imgSource":"img/speakers/Amandeep Patti.jpg"
+        }
+    ]
+}
