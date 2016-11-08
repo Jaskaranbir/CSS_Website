@@ -1,0 +1,100 @@
+{
+    "executiveTeam": [
+        {
+            "2016": [
+                {
+                    "position": "President",
+                    "firstName": "Arvin",
+                    "lastName": "Kumar",
+                    "preferedName":"",
+                    "email": "kumararv@sheridancollege.ca",
+                    "linked": "https://ca.linkedin.com/in/arvin-kumar-0bba37b0",
+                    "imgSource": "img/team/arvinKumar.jpg"
+                },
+                {
+                    "position": "Vice President",
+                    "firstName": "Nihal",
+                    "lastName": "Pandit",
+                    "preferedName":"",
+                    "email": "me@nihalpandit.com",
+                    "linked": "",
+                    "imgSource": "img/team/NoPicture.png" 
+                },
+                {
+                    "position": "Executive Member",
+                    "firstName": "Xiaowen",
+                    "lastName": "Li",
+                    "preferedName":"Sharon",
+                    "email": "xiaowen.li@sheridancollege.ca",
+                    "linked": "",
+                    "imgSource": "img/team/NoPicture.png" 
+                },
+                {
+                    "position": "Executive Member",
+                    "firstName": "Sanchay",
+                    "lastName": "Talwar",
+                    "preferedName":"",
+                    "email": "sanchayt37@yahoo.com",
+                    "linked": "",
+                    "imgSource": "img/team/NoPicture.png" 
+                },
+                {
+                    "position": "Executive Member",
+                    "firstName": "Quanzhi",
+                    "lastName": "Huang",
+                    "preferedName":"Jackie",
+                    "email": " huangqu@sheridancollege.ca",
+                    "linked": "",
+                    "imgSource": "img/team/NoPicture.png" 
+                }
+            ],
+            "2014-2015": [
+                {
+                    "position": "President",
+                    "firstName": "Giovanni",
+                    "lastName": "McLeis",
+                    "preferedName":"",
+                    "email": "",
+                    "linked": "",
+                    "imgSource": "img/team/Gio.jpg"
+                },
+                {
+                    "position": "Vice President",
+                    "firstName": "Abigail",
+                    "lastName": "",
+                    "preferedName":"",
+                    "email": "",
+                    "linked": "",
+                    "imgSource":"img/team/Abby.jpg"
+                },
+                 {
+                    "position": "Executive Member",
+                    "firstName": "Allan",
+                    "lastName": "",
+                    "preferedName":"",
+                    "email": "",
+                    "linked": "",
+                    "imgSource":"img/team/Allan.jpg"
+                },
+                {
+                    "position": "Executive Member",
+                    "firstName": "Heli",
+                    "lastName": "",
+                    "preferedName":"",
+                    "email": "",
+                    "linked": "",
+                    "imgSource":"img/team/Heli.jpg"
+                },
+                {
+                    "position": "Executive Member",
+                    "firstName": "Ryan",
+                    "lastName": "",
+                    "preferedName":"",
+                    "email": "",
+                    "linked": "",
+                    "imgSource":"img/team/Ryan.jpg"
+                }
+            ]
+        }
+    ]
+}
